@@ -11,7 +11,7 @@
         <title="Pimls">
     </head>
     <body>
-        <h1>Hallo GIT!</h1>
+        <h1>HaSllo GIT!</h1>
         <h6>Irgentwie bist du ja schon verdammt cool.</h6>
     </body>
 </html>
